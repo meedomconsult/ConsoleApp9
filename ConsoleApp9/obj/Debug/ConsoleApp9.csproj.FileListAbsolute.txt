@@ -1,0 +1,15 @@
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\MySqlConnector.dll
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\OptimizedDataReader.dll
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\Savage.Data.dll
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\Savage.Data.MySqlClient.dll
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\System.Buffers.dll
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csprojAssemblyReference.cache
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CopyComplete
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\meedo\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
